@@ -25,14 +25,11 @@
 <!--<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpess" width="40" height="40" align="center"/>&nbsp;-->
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/pug/pug-original.svg" title="pug" alt="pug" width="40" height="40" align="center"/> -->
 
-### Статистика
+<div>
+     <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akaryaka&theme=darcula" height="145">  -->
+     <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akaryaka&theme=darcula" height="145">  -->
+</div>
+
     
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akaryaka&theme=darcula" height="170"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akaryaka&theme=darcula" height="170">|
-    
-     
-
-
-
-#### Гайд по оформлению markdown
-https://www.markdownguide.org/basic-syntax/
+<!--https://www.markdownguide.org/basic-syntax/-->
   
