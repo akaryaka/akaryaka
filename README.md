@@ -27,7 +27,7 @@
 
 ### Статистика
     
-<div>
+<div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akaryaka&theme=darcula" height="170">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akaryaka&theme=darcula" height="170"> 
 </div>
