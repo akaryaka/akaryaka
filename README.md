@@ -23,7 +23,6 @@
 ### 🧰 Инструменты
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
 
 ### 🐧 Операционные системы
@@ -38,6 +37,7 @@
 ---
 
 ## 📚 Дополнительно изучал
+![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) 
 ![Pug](https://img.shields.io/badge/Pug-%23FFF.svg?style=flat-square&logo=pug&logoColor=A86454)
