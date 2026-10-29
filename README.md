@@ -44,7 +44,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) 
 ![Pug](https://img.shields.io/badge/Pug-%23FFF.svg?style=flat-square&logo=pug&logoColor=A86454)
-
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 ---
 
 ## 📊 Статистика GitHub
